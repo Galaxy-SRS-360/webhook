@@ -1,2 +1,2 @@
 # SUCCESS
-## Webhook IFTT && git
+## Webhook IFTT && github
